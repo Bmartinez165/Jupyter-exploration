@@ -1,2 +1,2 @@
 # Jupyter-exploration
-Setting up and exploring GotHub and Jupyter
+Setting up and exploring GitHub and Jupyter
